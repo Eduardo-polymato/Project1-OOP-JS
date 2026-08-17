@@ -1,0 +1,23 @@
+13 - 8 - 2026
+
+#Belajar OOP dengan JavaScript + Tailwind CSS
+
+//jujur sebenarnya aku belajar ini tu karena aku mulai mencoba kemali produktif dengan belajar lebih giat lagi terutama dalam hal coding , kalau sebelum nya aku belajar tentang git dan github naah mungkin juga tetap sama tetapi dengan belajar oop js dan tailwind sekaligus lalu barulah setelah itu aku terjun ke framework
+
+//kalau belajar ini juga ada yang mau belajar juga bisa menghubungi saya di fb atau twitter hehehehe tapi masih nanti kok 
+
+17 - 8 - 2026
+#Belajar instalasi typescript
+//okee jadi hari ini aku kembali belajar js dan ts gitukan dan awalnya aku pikir js dan ts itu adalah bahasa yang berbeda eh ternyata ts itu adalah superset dan yaa bisa di bilang mirip modul gitu lah . Hari ini aku baru mulai belajar instalasi secara manual dan rasanya cukup enak sih 
+
+//untuk instalasi ts nya bisa cek di README.md
+
+sete;ah itu aku baru membuat folder lagi yaitu :
+// src 
+lalu file index.ts, dan utils
+
+membuat folder lagi :
+//dist
+//test
+
+
